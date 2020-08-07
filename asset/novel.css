@@ -1,0 +1,34 @@
+table {
+    width:100%;
+    height: 100vh ;
+}
+.fondo {
+    height: 100vh ;
+    width: 100vw ;
+    background: url('worlds/preloader.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.scene{
+  height: 100vh ;
+  width: 100vw ;
+}
+.textBox {
+    width: 100vw ;
+    position: absolute;
+    bottom: 0;
+    background: #2222229e;
+    visibility : visible;
+}
+.avatar {
+  width: 600px;
+  background: url('');
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  background-position: center !important;
+}
+
+.swal2-container.swal2-backdrop-show, .swal2-container.swal2-noanimation {
+    background: rgb(0, 0, 0) !important;
+}
