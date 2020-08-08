@@ -31,9 +31,9 @@ npm start
 Escribir el código de la novela en el archivo: `./asset/mynovel.js`
 
 ### Assets
-**Imagenes de fondo en la carpeta:** 
+**Imágenes de fondo en la carpeta:** 
 `./asset/worlds`  
-**Musica en la carpeta:** 
+**Música en la carpeta:** 
 `./asset/music`  
 **Personajes en la carpeta:** 
 `./asset/avatars`
