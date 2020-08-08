@@ -5,14 +5,15 @@ Motor de novelas visuales
 [Node Js](https://nodejs.org/en/download/)  
 [Git](https://git-scm.com/downloads) (para descargarlo usando el comando git)
 
-## Descargar el repositorio
+## Preparación
+### Descargar el repositorio
 Escribir lo siguiente en PowerShell o alguna terminal
 ```bash
 # Clone this repository
 git clone https://github.com/LainR/visualNovel.git
 ```
 
-## Instalar dependencias
+### Instalar dependencias
 ```bash
 # Go into the repository
 cd visualNovel
@@ -20,11 +21,22 @@ cd visualNovel
 npm install
 ```
 
-## Iniciar la aplicación
+### Iniciar la aplicación
 ```bash
 # Run the app
 npm start
 ```
+
+## Uso
+Escribir el código de la novela en el archivo: `./asset/mynovel.js`
+
+### Assets
+**Imagenes de fondo en la carpeta:** 
+`./asset/worlds`  
+**Musica en la carpeta:** 
+`./asset/music`  
+**Personajes en la carpeta:** 
+`./asset/avatars`
 
 ## License
 
